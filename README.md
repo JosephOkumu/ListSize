@@ -1,5 +1,5 @@
 
-# RotateString
+# ListSize
 
 This program counts the number of elements in a linked list.
 
